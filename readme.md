@@ -15,7 +15,7 @@ With the rise of powerful LLMs like GPT, understanding their inner workings is c
 - [ ] **Deployment** – Exploring ways to serve the trained LLM efficiently.
 
 ## 📚 References
-- **Sebastian Raschka's book** (add the exact title)
+- **Sebastian Raschka's book** (Build a Large Language Model)
 - Research papers on Transformers and Language Models
 - Open-source implementations like GPT-2, BERT, and LLaMA
 
